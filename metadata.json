@@ -1,0 +1,5 @@
+{
+  "name": "WA State Temporary License Generator",
+  "description": "Generate fillable WA State temporary driver licenses with AAMVA 2025/2026 compliant PDF417 barcodes and Veo image animation.",
+  "requestFramePermissions": []
+}
